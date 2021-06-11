@@ -1,0 +1,55 @@
+@media screen and (max-width:768px) {
+    .first-of-all {
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+    }
+    .background-color-div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+}
+@media screen and (max-width:768px) {
+    .card-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        object-fit: cover;
+        max-width: 400px;
+        min-height: 400px;
+    }
+}
+@media screen and (max-width:768px) {
+    .second-section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+}
+@media screen and (max-width:768px) {
+    .fiveth-section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+}
+@media screen and (max-width:768px) {
+    .footer-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+}
